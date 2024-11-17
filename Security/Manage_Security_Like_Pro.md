@@ -205,4 +205,4 @@ Use tools like Kubernetes Audit Logs and security monitoring solutions to detect
 
 
 ## Upgrades
-Keep the Kubernetes cluster and its components up to date with the latest security patches and updates.
+Keep the Kubernetes cluster and its components up to date with the latest security patches and updates .
